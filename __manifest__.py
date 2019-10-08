@@ -28,7 +28,6 @@
         'account',
     ],
     'data': [
-        'reports/sale.xml',
-        'reports/account.xml',
+        'reports/sale_order.xml',
     ]
 }
