@@ -19,15 +19,15 @@
 ##############################################################################
 
 {
-    'name': 'Sale Remove Product Details',
-    'version': '1.0',
-    'author': 'Humanytek',
-    'website': 'http://humanytek.com',
-    'depends': [
-        'sale',
-        'account',
+    "name": "Sale Remove Product Details",
+    "version": "1.0",
+    "author": "Humanytek",
+    "website": "http://humanytek.com",
+    "depends": [
+        "sale",
+        "account",
     ],
-    'data': [
-        'reports/sale_order.xml',
-    ]
+    "data": [
+        "reports/sale_order.xml",
+    ],
 }
