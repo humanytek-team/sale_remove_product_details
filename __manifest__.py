@@ -30,4 +30,5 @@
     "data": [
         "reports/sale_order.xml",
     ],
+    "installable": False,
 }
