@@ -30,6 +30,5 @@
     "data": [
         "reports/sale_order.xml",
     ],
-    "installable": False,
     "license": "AGPL-3",
 }
